@@ -3,7 +3,7 @@ description: Affiliate and referral management platform for SaaS and digital pro
 website_url: https://refearnapp.com
 source_code_url: https://github.com/ZAK123DSFDF/refearnapp
 licenses:
-  - identifier: AGPL-3.0-only
+  - AGPL-3.0-only
 platforms:
   - Docker
   - Nodejs

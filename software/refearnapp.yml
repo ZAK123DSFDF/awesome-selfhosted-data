@@ -1,0 +1,12 @@
+name: RefearnApp
+description: Affiliate and referral management platform for SaaS and digital products. (alternative to Rewardful, FirstPromoter, Tolt)
+website: https://refearnapp.com
+platforms:
+  - Docker
+  - Nodejs
+license:
+  - identifier: AGPL-3.0-only
+tags:
+  - E-commerce
+  - Analytics
+repo: https://github.com/ZAK123DSFDF/refearnapp

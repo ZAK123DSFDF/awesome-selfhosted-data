@@ -10,14 +10,14 @@ tags:
   - Communication - Custom Communication Systems
 demo_url: https://fluxer.app
 related_software_url: https://github.com/awesome-fluxer/awesome-fluxer
-stargazers_count: 10496
-updated_at: '2026-10-07'
+stargazers_count: 10536
+updated_at: '2026-10-10'
 archived: false
 current_release:
-  tag: fluxer-docs@2026.1007.3949
-  published_at: '2026-10-07'
+  tag: fluxer-app-proxy@2026.1010.11819
+  published_at: '2026-10-10'
 commit_history:
   2026-07: 59
   2026-08: 692
   2026-09: 587
-  2026-10: 111
+  2026-10: 223
